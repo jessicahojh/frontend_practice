@@ -6,6 +6,10 @@ body {
   color: blue
 }
 
+p {
+  color: blue;
+}
+
 .squares {
   display: flex;
 }
